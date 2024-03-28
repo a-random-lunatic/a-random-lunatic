@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @a-random-lunatic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+AAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <!---
 a-random-lunatic/a-random-lunatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
